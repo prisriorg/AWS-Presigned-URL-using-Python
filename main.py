@@ -1,4 +1,5 @@
 import boto3
+import pyttsx3
 from botocore.client import Config
 import os
 
